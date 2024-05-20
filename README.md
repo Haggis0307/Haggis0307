@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haggis0307
+- 👋 Hi, I’m Paula
 - 👀 I’m interested in learning to code so I can work as a full stack developer - and when I'm not coding, I love horror movies.
 - 🌱 I’m currently learning full stack development with The Odin Project.
 - 💞️ I’m looking to collaborate on easy and fun coding projects for beginners.
